@@ -1,50 +1,63 @@
-# 🌐 Projeto M5G - DAO para Infraestrutura 5G Descentralizada
+# 🌐 M5G Project - DAO for Decentralized 5G Infrastructure
 
-> Democratizar o acesso à conectividade 5G através de uma plataforma comunitária, sustentável e baseada em blockchain.
+> Democratizing access to 5G connectivity through a community-led, sustainable, blockchain-based platform.
 
-## 📘 Visão Geral
+## 📘 Overview
 
-O M5G é uma iniciativa open-source que visa criar uma infraestrutura 5G descentralizada, utilizando tecnologia blockchain para coordenar a implantação, gestão e monetização de redes locais através de uma DAO.
+**M5G** is an open-source initiative aiming to build decentralized 5G infrastructure. The project uses blockchain technology to coordinate deployment, management, and monetization of local 5G networks through a DAO (Decentralized Autonomous Organization).
 
-Através de NFTs de localização (LNFTs) e NFTs de equipamento (ENFTs), a plataforma permite que comunidades, municípios e investidores participem ativamente na construção de uma nova forma de conectividade.
+By leveraging Location NFTs (LNFTs) and Equipment NFTs (ENFTs), M5G empowers communities, municipalities, and investors to actively participate in a new, democratized telecom model.
 
-## 🚀 Componentes Principais
+## 🚀 Core Components
 
-- **DAO M5G**: Mecanismos de governança para decisões comunitárias.
-- **Tokens e NFTs**: Representam participação, propriedade e acesso a infraestrutura.
-- **Subnet Avalanche**: Blockchain própria para performance, baixo custo e escalabilidade.
-- **Infraestrutura 5G**: Small cells, gateways e telemetria conectados a NFTs.
+- **M5G DAO**: Governance mechanisms for community-led decisions.
+- **Tokens & NFTs**: Represent participation, ownership, and infrastructure access.
+- **Avalanche Subnet**: High-performance blockchain with low fees and scalability.
+- **5G Infrastructure**: Small cells, gateways, and telemetry linked to NFTs.
 
-## 🧱 Estrutura por Sprints
+## 🧱 Project Roadmap by Sprints
 
-| Sprint | Objetivo | Status |
-|--------|----------|--------|
-| 0 | Preparação inicial (GitHub, domínio, subnet, site) | 🔄 Em curso |
-| 1 | Demonstração de mintagem e ponte | ⏳ Planeado |
-| 2 | Lançamento da DAO e pré-venda de LNFTs | ⏳ Planeado |
-| 3 | Validação da subnet + marketplace | ⏳ Planeado |
-| 4 | Integração de hardware físico | ⏳ Planeado |
-| 5 | Expansão e governança descentralizada | ⏳ Planeado |
+| Sprint | Objective | Status |
+|--------|-----------|--------|
+| 0 | Initial Setup (GitHub, domain, subnet, site) | 🔄 In Progress |
+| 1 | NFT Minting Demo and Teleporter Bridge | ⏳ Planned |
+| 2 | DAO Deployment & LNFT Pre-sale | ⏳ Planned |
+| 3 | Subnet Mainnet Validation & NFT Marketplace | ⏳ Planned |
+| 4 | Hardware Integration (First Small-Cell) | ⏳ Planned |
+| 5 | Expansion & Decentralized Governance | ⏳ Planned |
 
-## 💡 Tecnologias Usadas
+## 💡 Technologies
 
 - **Blockchain**: Avalanche Subnet + C-Chain + Teleporter
 - **Smart Contracts**: Solidity + Hardhat
-- **Frontend**: React + Tailwind (em breve)
-- **Infraestrutura**: IPFS, Vercel, GitHub Actions
-- **Monitoramento**: Grafana, Prometheus (previsto)
+- **Frontend**: React + Tailwind CSS (planned)
+- **Infrastructure**: IPFS, Vercel, GitHub Actions
+- **Monitoring**: Grafana, Prometheus (future)
 
 ## 📄 Whitepaper
 
-- 📥 [Versão resumida em português (PDF)](link)
-- 📥 [Whitepaper técnico completo (em breve)]
+- 📥 [Executive Summary (PDF)](link)
+- 📥 [Full Technical Whitepaper (coming soon)]
 
-## 💬 Comunidade
+## 💬 Community & Links
 
-- [Discord](https://discord.gg/seuprojetom5g)
-- [Telegram](https://t.me/seuprojetom5g)
-- [Twitter](https://twitter.com/seuprojetom5g)
-- [Site oficial](https://m5g.dao) (em desenvolvimento)
+- [Discord](https://discord.gg/m5gdao)
+- [Telegram](https://t.me/m5gdao)
+- [Twitter](https://twitter.com/m5gdao)
+- [Official Website](https://m5g.dao) (under development)
 
-## 📂 Estrutura do Repositório
+## 📂 Repository Structure
 
+/contracts -> Smart contracts (DAO, NFTs)
+/frontend -> Web interface (React)
+/subnet -> Avalanche Subnet config & scripts
+/docs -> Governance & technical documentation
+/scripts -> Utility scripts for deployment
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+> _"Connecting communities. Democratizing the future."_ — M5G DAO
