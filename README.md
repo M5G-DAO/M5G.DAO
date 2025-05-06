@@ -48,11 +48,13 @@ By leveraging Location NFTs (LNFTs) and Equipment NFTs (ENFTs), M5G empowers com
 
 ## 📂 Repository Structure
 
-/contracts -> Smart contracts (DAO, NFTs)
-/frontend -> Web interface (React)
-/subnet -> Avalanche Subnet config & scripts
-/docs -> Governance & technical documentation
-/scripts -> Utility scripts for deployment
+```
+/contracts        -> Smart contracts (DAO, NFTs)
+/frontend         -> Web interface (React)
+/subnet           -> Avalanche Subnet config & scripts
+/docs             -> Governance & technical documentation
+/scripts          -> Utility scripts for deployment
+```
 
 ## 📜 License
 
