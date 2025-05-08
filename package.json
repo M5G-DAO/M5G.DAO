@@ -1,0 +1,22 @@
+{
+  "name": "m5g-github-structure",
+  "version": "1.0.0",
+  "description": "> Democratizing access to 5G connectivity through a community-led, sustainable, blockchain-based platform.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/contracts": "^5.3.0",
+    "@openzeppelin/contracts-upgradeable": "^5.3.0",
+    "dotenv": "^16.5.0",
+    "hardhat": "^2.24.0"
+  }
+}
