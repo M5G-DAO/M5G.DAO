@@ -10,10 +10,10 @@ By leveraging Location NFTs (LNFTs) and Equipment NFTs (ENFTs), M5G empowers com
 
 ## 🚀 Core Components
 
-- **M5G DAO**: Governance mechanisms for community-led decisions.
-- **Tokens & NFTs**: Represent participation, ownership, and infrastructure access.
-- **Avalanche Subnet**: High-performance blockchain with low fees and scalability.
-- **5G Infrastructure**: Small cells, gateways, and telemetry linked to NFTs.
+* **M5G DAO**: Governance mechanisms for community-led decisions.
+* **Tokens & NFTs**: Represent participation, ownership, and infrastructure access.
+* **Avalanche Subnet**: High-performance blockchain with low fees and scalability.
+* **5G Infrastructure**: Small cells, gateways, and telemetry linked to NFTs.
 
 ## 🧱 Project Roadmap by Sprints
 
@@ -58,7 +58,7 @@ By leveraging Location NFTs (LNFTs) and Equipment NFTs (ENFTs), M5G empowers com
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 ---
 
